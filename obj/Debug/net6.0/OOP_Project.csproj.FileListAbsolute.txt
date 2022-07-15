@@ -1,0 +1,15 @@
+/home/raphaeladewale/Documents/csharp/OOP_Project/bin/Debug/net6.0/OOP_Project
+/home/raphaeladewale/Documents/csharp/OOP_Project/bin/Debug/net6.0/OOP_Project.deps.json
+/home/raphaeladewale/Documents/csharp/OOP_Project/bin/Debug/net6.0/OOP_Project.runtimeconfig.json
+/home/raphaeladewale/Documents/csharp/OOP_Project/bin/Debug/net6.0/OOP_Project.dll
+/home/raphaeladewale/Documents/csharp/OOP_Project/bin/Debug/net6.0/OOP_Project.pdb
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/OOP_Project.csproj.AssemblyReference.cache
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/OOP_Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/OOP_Project.AssemblyInfoInputs.cache
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/OOP_Project.AssemblyInfo.cs
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/OOP_Project.csproj.CoreCompileInputs.cache
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/OOP_Project.dll
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/refint/OOP_Project.dll
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/OOP_Project.pdb
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/OOP_Project.genruntimeconfig.cache
+/home/raphaeladewale/Documents/csharp/OOP_Project/obj/Debug/net6.0/ref/OOP_Project.dll
